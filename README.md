@@ -2,7 +2,7 @@
 
 - [x] Day 1 - Hello World!
 - [x] Day 2 - Soma de dois numeros de dois jeitos diferentes
-- [] Day 3 -
+- [x] Day 3 - Verificar se o numero é par ou impar
 - [] Day 4 -
 - [] Day 5 -
 - [] Day 6 -
