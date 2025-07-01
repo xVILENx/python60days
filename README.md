@@ -1,7 +1,7 @@
 # 60 days in python
 
 - [x] Day 1 - Hello World!
-- [] Day 2 -
+- [x] Day 2 - Soma de dois numeros de dois jeitos diferentes
 - [] Day 3 -
 - [] Day 4 -
 - [] Day 5 -
