@@ -1,6 +1,6 @@
 # 60 days in python
 
-- [x]Day 1 - Hello World!
+- [x]Day 1 - Hello World! Python
 - []Day 2 -
 - []Day 3 -
 - []Day 4 -
