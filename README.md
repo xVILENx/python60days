@@ -3,10 +3,10 @@
 - [x] Day 1 - Hello World!
 - [x] Day 2 - Soma de dois numeros de dois jeitos diferentes
 - [x] Day 3 - Verificar se o numero é par ou impar
-- [] Day 4 -
-- [] Day 5 -
-- [] Day 6 -
-- [] Day 7 -
+- [x] Day 4 - Laço de repetição
+- [x] Day 5 - Função que imprime o quadrado do numero
+- [x] Day 6 - Lista de frutas
+- [x] Day 7 - Dicionario estatico e dinamico
 - [] Day 8 -
 - [] Day 9 -
 - [] Day 10 -
