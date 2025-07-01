@@ -1,4 +1,5 @@
 # dicionario em python
+
 #ESTATICO
 
 aluno = {
