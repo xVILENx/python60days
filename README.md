@@ -1,25 +1,25 @@
 # 60 days in python
 
-- []Day1:
-- []Day2:
-- []Day3:
-- []Day4:
-- []Day5:
-- []Day6:
-- []Day7:
-- []Day8:
-- []Day9:
-- []Day10:
-- []Day11:
-- []Day12:
-- []Day13:
-- []Day14:
-- []Day15:
-- []Day16:
-- []Day17:
-- []Day18:
-- []Day19:
-- []Day20:
-- []Day21:
-- []Day22:
+- [x]Day 1 - Hello World!
+- []Day 2 -
+- []Day 3 -
+- []Day 4 -
+- []Day 5 -
+- []Day 6 -
+- []Day 7 -
+- []Day 8 -
+- []Day 9 -
+- []Day 10 -
+- []Day 11 -
+- []Day 12 -
+- []Day 13 -
+- []Day 14 -
+- []Day 15 - 
+- []Day 16 - 
+- []Day 17 -
+- []Day 18 - 
+- []Day 19 -
+- []Day 20 -
+- []Day 21 -
+- []Day 22 -
 - 
