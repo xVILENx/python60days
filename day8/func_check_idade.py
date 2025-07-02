@@ -4,6 +4,7 @@ def pode_dirigir(idade):
     else:
         return False
 
+
 try:
     input_user = int(input("Digite a sua idade: "))
     print(pode_dirigir(input_user))

@@ -7,14 +7,14 @@
 - [x] Day 5 - Função que imprime o quadrado do numero
 - [x] Day 6 - Lista de frutas
 - [x] Day 7 - Dicionario estatico e dinamico
-- [] Day 8 -
-- [] Day 9 -
-- [] Day 10 -
-- [] Day 11 -
-- [] Day 12 -
-- [] Day 13 -
-- [] Day 14 -
-- [] Day 15 - 
+- [x] Day 8 - Check de idade para ver se pode dirigir no Brasil
+- [x] Day 9 - Contador de numeros personalizado
+- [x] Day 10 - Gerador de senhas aleatórias particular
+- [x] Day 11 - Função sorted para ordenar uma listra de numeros
+- [x] Day 12 - Fazendo buscas em listas
+- [x] Day 13 - Função fatorial com recursividade
+- [x] Day 14 - Calculadora de numero primo
+- [x] Day 15 - Primeiros numeros da sequência Fibonacci
 - [] Day 16 - 
 - [] Day 17 -
 - [] Day 18 - 
