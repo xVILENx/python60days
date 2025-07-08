@@ -15,11 +15,19 @@
 - [x] Day 13 - Função fatorial com recursividade
 - [x] Day 14 - Calculadora de numero primo
 - [x] Day 15 - Primeiros numeros da sequência Fibonacci
-- [] Day 16 - 
-- [] Day 17 -
-- [] Day 18 - 
-- [] Day 19 -
-- [] Day 20 -
-- [] Day 21 -
-- [] Day 22 -
-- 
+- [x] Day 16 - Anagramas
+- [x] Day 17 - Palíndromo
+- [x] Day 18 - Contador de palavras de uma string
+- [x] Day 19 - Calcular media de notas
+- [x] Day 20 - Transpor a matriz
+- [x] Day 21 - Conversor de moedas dolar para real
+- [x] Day 22 - Calculo de IMC
+- [x] Day 23 - Jogo de adivinhação de numeros
+- [x] Day 24 - Tabuada em Python
+- [x] Day 25 - Gerador de numeros aleatorios enumerados
+- [x] Day 26 -
+- [x] Day 27 -
+- [x] Day 28 -
+- [x] Day 29 -
+- [x] Day 30 -
+- [x] Day 31 -
