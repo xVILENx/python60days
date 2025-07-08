@@ -6,4 +6,4 @@ if idade >= 18:
     print("Voce pode dirigir")
 else:
     print("Voce não pode dirigir")
-    
+# No Brasil
