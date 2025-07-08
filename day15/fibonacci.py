@@ -5,4 +5,4 @@ for i in range(8):
     proximo_numero = fibonacci[-1] + fibonacci[-2] # -1 e -2 são os numeros 1 e 0 da lista
     fibonacci.append(proximo_numero)
     
-print(fibonacci)
+print(fibonacci) #sequencia
