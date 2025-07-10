@@ -25,9 +25,39 @@
 - [x] Day 23 - Jogo de adivinhação de numeros
 - [x] Day 24 - Tabuada em Python
 - [x] Day 25 - Gerador de numeros aleatorios enumerados
-- [x] Day 26 -
-- [x] Day 27 -
-- [x] Day 28 -
-- [x] Day 29 -
-- [x] Day 30 -
-- [x] Day 31 -
+- [x] Day 26 - Função para escrever em txt
+- [x] Day 27 - Conversor de celsius para fahrenheit e vice versa
+- [x] Day 28 - Cronômetro
+- [x] Day 29 - Marcador de data e hora local e atual da maquina
+- [x] Day 30 - Cronômetro de 10 segundos
+- [x] Day 31 - Raiz quadrada
+- [x] Day 32 - Dado de 6 faces randômico
+- [x] Day 33 - Contador de ocorreêcias
+- [x] Day 34 - Criar um arquivo JSON
+- [x] Day 35 - Api Chuck Norris
+- [x] Day 36 - Crawler em sites na internet
+- [x] Day 37 - Ler arquivo csv com pandas
+- [x] Day 38 - Api ChatGPT 
+- [x] Day 39 - Plotar Gráficos plotext
+- [x] Day 40 - Programação Orientada a Objetos com DBZ de exemplo
+- [x] Day 41 - Herança dos códigos 
+- [x] Day 42 -
+- [x] Day 43 -
+- [x] Day 44 -
+- [x] Day 45 -
+- [x] Day 46 -
+- [x] Day 47 -
+- [x] Day 48 -
+- [x] Day 49 -
+- [x] Day 50 -
+- [x] Day 51 -
+- [x] Day 52 -
+- [x] Day 53 -
+- [x] Day 54 -
+- [x] Day 55 -
+- [x] Day 56 -
+- [x] Day 57 -
+- [x] Day 58 -
+- [x] Day 59 -
+- [x] Day 60 -
+

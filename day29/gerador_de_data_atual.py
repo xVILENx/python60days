@@ -1,7 +1,6 @@
 from datetime import datetime
 import pytz
 
-
 def exibir_data_hora_atual():
     """
     Exibe data e hora atual do sistema
