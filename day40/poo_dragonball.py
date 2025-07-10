@@ -1,5 +1,5 @@
 class PersonagemDB:
-    # O self garante que cada instancia da classe tenha seus proprios valores unicos sem interferir nas outras classes
+    # O self garante que cada instancia da classe tenha seus proprios valores unicos sem interferir nas outras classes.
     def __init__(self, nome, poder, nivel, transformacao="Base"):
         """
         Inicializa os atributos do personagem
