@@ -1,50 +1,50 @@
 # 60 days in python
 
 - [x] Day 1 - Hello World!
-- [x] Day 2 - Soma de dois numeros de dois jeitos diferentes
-- [x] Day 3 - Verificar se o numero é par ou impar
-- [x] Day 4 - Laço de repetição
-- [x] Day 5 - Função que imprime o quadrado do numero
-- [x] Day 6 - Lista de frutas
-- [x] Day 7 - Dicionario estatico e dinamico
-- [x] Day 8 - Check de idade para ver se pode dirigir no Brasil
-- [x] Day 9 - Contador de numeros personalizado
-- [x] Day 10 - Gerador de senhas aleatórias particular
-- [x] Day 11 - Função sorted para ordenar uma listra de numeros
-- [x] Day 12 - Fazendo buscas em listas
-- [x] Day 13 - Função fatorial com recursividade
-- [x] Day 14 - Calculadora de numero primo
-- [x] Day 15 - Primeiros numeros da sequência Fibonacci
-- [x] Day 16 - Anagramas
-- [x] Day 17 - Palíndromo
-- [x] Day 18 - Contador de palavras de uma string
-- [x] Day 19 - Calcular media de notas
-- [x] Day 20 - Transpor a matriz
-- [x] Day 21 - Conversor de moedas dolar para real
-- [x] Day 22 - Calculo de IMC
-- [x] Day 23 - Jogo de adivinhação de numeros
-- [x] Day 24 - Tabuada em Python
-- [x] Day 25 - Gerador de numeros aleatorios enumerados
-- [x] Day 26 - Função para escrever em txt
-- [x] Day 27 - Conversor de celsius para fahrenheit e vice versa
-- [x] Day 28 - Cronômetro
-- [x] Day 29 - Marcador de data e hora local e atual da maquina
-- [x] Day 30 - Cronômetro de 10 segundos
-- [x] Day 31 - Raiz quadrada
-- [x] Day 32 - Dado de 6 faces randômico
-- [x] Day 33 - Contador de ocorreêcias
-- [x] Day 34 - Criar um arquivo JSON
-- [x] Day 35 - Api Chuck Norris
-- [x] Day 36 - Crawler em sites na internet
-- [x] Day 37 - Ler arquivo csv com pandas
-- [x] Day 38 - Api ChatGPT 
-- [x] Day 39 - Plotar Gráficos plotext
-- [x] Day 40 - Programação Orientada a Objetos com DBZ de exemplo
-- [x] Day 41 - Herança dos códigos 
-- [x] Day 42 -
-- [x] Day 43 -
-- [x] Day 44 -
-- [x] Day 45 -
+- [x] Day 2 - Soma de dois numeros de dois jeitos diferentes.
+- [x] Day 3 - Verificar se o numero é par ou impar.
+- [x] Day 4 - Laço de repetição.
+- [x] Day 5 - Função que imprime o quadrado do numero.
+- [x] Day 6 - Lista de frutas.
+- [x] Day 7 - Dicionario estatico e dinamico.
+- [x] Day 8 - Check de idade para ver se pode dirigir no Brasil.
+- [x] Day 9 - Contador de numeros personalizado.
+- [x] Day 10 - Gerador de senhas aleatórias particular.
+- [x] Day 11 - Função sorted para ordenar uma listra de numeros.
+- [x] Day 12 - Fazendo buscas em listas.
+- [x] Day 13 - Função fatorial com recursividade.
+- [x] Day 14 - Calculadora de numero primo.
+- [x] Day 15 - Primeiros numeros da sequência Fibonacci.
+- [x] Day 16 - Anagramas.
+- [x] Day 17 - Palíndromo.
+- [x] Day 18 - Contador de palavras de uma string.
+- [x] Day 19 - Calcular media de notas.
+- [x] Day 20 - Transpor a matriz.
+- [x] Day 21 - Conversor de moedas dolar para real.
+- [x] Day 22 - Calculo de IMC.
+- [x] Day 23 - Jogo de adivinhação de numeros.
+- [x] Day 24 - Tabuada em Python.
+- [x] Day 25 - Gerador de numeros aleatorios enumerados.
+- [x] Day 26 - Função para escrever em txt.
+- [x] Day 27 - Conversor de celsius para fahrenheit e vice versa.
+- [x] Day 28 - Cronômetro.
+- [x] Day 29 - Marcador de data e hora local e atual da maquina.
+- [x] Day 30 - Cronômetro de 10 segundos.
+- [x] Day 31 - Raiz quadrada.
+- [x] Day 32 - Dado de 6 faces randômico.
+- [x] Day 33 - Contador de ocorreêcias.
+- [x] Day 34 - Criar um arquivo JSON.
+- [x] Day 35 - Api Chuck Norris.
+- [x] Day 36 - Crawler em sites na internet.
+- [x] Day 37 - Ler arquivo csv com pandas.
+- [x] Day 38 - Api ChatGPT .
+- [x] Day 39 - Plotar Gráficos plotext.
+- [x] Day 40 - Programação Orientada a Objetos com DBZ de exemplo.
+- [x] Day 41 - Herança dos códigos em POO.
+- [x] Day 42 - Modulo OS em Python.
+- [x] Day 43 - Lidando com erros.
+- [x] Day 44 - Utilizando o Regex para verificar emails.
+- [x] Day 45 - Multi task com Threads.
 - [x] Day 46 -
 - [x] Day 47 -
 - [x] Day 48 -
