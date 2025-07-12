@@ -45,9 +45,9 @@
 - [x] Day 43 - Lidando com erros.
 - [x] Day 44 - Utilizando o Regex para verificar emails.
 - [x] Day 45 - Multi task com Threads.
-- [x] Day 46 -
-- [x] Day 47 -
-- [x] Day 48 -
+- [x] Day 46 - Servidor.
+- [x] Day 47 - Medir tempo de uma execução com decorator.
+- [x] Day 48 - Generator(yield). 
 - [x] Day 49 -
 - [x] Day 50 -
 - [x] Day 51 -
