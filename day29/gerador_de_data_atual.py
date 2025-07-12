@@ -16,3 +16,4 @@ def exibir_data_hora_atual():
     
 if __name__ == "__main__":
     exibir_data_hora_atual()
+    
